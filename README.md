@@ -35,7 +35,7 @@ Calculator/
 
 Screenshot
 
-"Calculator" (screenshots/calculator.png)
+"Calculator" (screenshots/8calculator-project.png)
 
 Learning Outcomes
 
